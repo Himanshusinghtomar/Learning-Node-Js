@@ -1,6 +1,3 @@
-Certainly! Below is an example README.md file that you can use as a starting point for your Node.js and MongoDB REST API project. Feel free to customize it based on your project's specific details.
-
-```markdown
 # Learning Node.js with MongoDB and REST API
 
 This repository documents my journey in learning Node.js with MongoDB and creating a REST API to connect both technologies.

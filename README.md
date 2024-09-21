@@ -34,13 +34,13 @@ Make sure you have the following software installed on your machine:
 5. Run the Node.js server:
 
    ```bash
-   node app.js
+   node index.js
    ```
 
    Or, if you have nodemon installed for development:
 
    ```bash
-   npx nodemon app.js
+   npx nodemon index.js
    ```
 
 ## Project Structure
